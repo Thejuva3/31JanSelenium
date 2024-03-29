@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-12T13:56:11Z" name="Default suite" finished-at="2024-03-12T13:56:21Z" duration-ms="9759">
+    <groups>
+    </groups>
+    <test started-at="2024-03-12T13:56:11Z" name="Default test" finished-at="2024-03-12T13:56:21Z" duration-ms="9759">
+      <class name="day6.testngarcitecture">
+        <test-method is-config="true" signature="setupbrowser()[pri:0, instance:day6.testngarcitecture@433defed]" started-at="2024-03-12T13:56:11Z" name="setupbrowser" finished-at="2024-03-12T13:56:14Z" duration-ms="2882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupbrowser -->
+        <test-method is-config="true" signature="puturl()[pri:0, instance:day6.testngarcitecture@433defed]" started-at="2024-03-12T13:56:14Z" name="puturl" finished-at="2024-03-12T13:56:15Z" duration-ms="1016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- puturl -->
+        <test-method signature="tco1usernameandpassword()[pri:0, instance:day6.testngarcitecture@433defed]" started-at="2024-03-12T13:56:15Z" name="tco1usernameandpassword" finished-at="2024-03-12T13:56:16Z" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco1usernameandpassword -->
+        <test-method is-config="true" signature="validationcheck()[pri:0, instance:day6.testngarcitecture@433defed]" started-at="2024-03-12T13:56:16Z" name="validationcheck" finished-at="2024-03-12T13:56:21Z" duration-ms="4797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationcheck -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:day6.testngarcitecture@433defed]" started-at="2024-03-12T13:56:21Z" name="closeup" finished-at="2024-03-12T13:56:21Z" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+      </class> <!-- day6.testngarcitecture -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
